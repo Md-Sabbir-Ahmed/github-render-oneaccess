@@ -1,9 +1,10 @@
 {
  "01-rickshaw-meter": {
-  "state": "rendering",
+  "state": "done",
   "run": "https://github.com/Md-Sabbir-Ahmed/github-render-oneaccess/actions/runs/43802340167",
   "started": "2026-11-16 04:09 UTC",
-  "finished": "",
-  "pct": 0.0
+  "finished": "2026-11-16 04:12 UTC",
+  "pct": 0.0,
+  "bytes": "24307410"
  }
 }
