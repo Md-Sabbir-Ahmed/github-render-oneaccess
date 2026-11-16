@@ -1,0 +1,134 @@
+{
+ "s01": {
+  "file": "assets/voice/s01.mp3",
+  "duration": 1.68,
+  "speech_start": 0.0,
+  "hash": "9d94fcc3"
+ },
+ "s02": {
+  "file": "assets/voice/s02.mp3",
+  "duration": 2.0,
+  "speech_start": 0.0,
+  "hash": "973f6dcc"
+ },
+ "s03": {
+  "file": "assets/voice/s03.mp3",
+  "duration": 3.04,
+  "speech_start": 0.0,
+  "hash": "97d9f2d1"
+ },
+ "s04": {
+  "file": "assets/voice/s04.mp3",
+  "duration": 3.76,
+  "speech_start": 0.0,
+  "hash": "9b622ad8"
+ },
+ "s05": {
+  "file": "assets/voice/s05.mp3",
+  "duration": 3.36,
+  "speech_start": 0.0,
+  "hash": "98eaaa36"
+ },
+ "s06": {
+  "file": "assets/voice/s06.mp3",
+  "duration": 1.92,
+  "speech_start": 0.0,
+  "hash": "17c5de49"
+ },
+ "s07": {
+  "file": "assets/voice/s07.mp3",
+  "duration": 2.56,
+  "speech_start": 0.0,
+  "hash": "857e5350"
+ },
+ "s08": {
+  "file": "assets/voice/s08.mp3",
+  "duration": 2.64,
+  "speech_start": 0.0,
+  "hash": "8acfac51"
+ },
+ "s09": {
+  "file": "assets/voice/s09.mp3",
+  "duration": 2.48,
+  "speech_start": 0.0,
+  "hash": "fad1c68e"
+ },
+ "s10": {
+  "file": "assets/voice/s10.mp3",
+  "duration": 2.08,
+  "speech_start": 0.0,
+  "hash": "564a242e"
+ },
+ "s11": {
+  "file": "assets/voice/s11.mp3",
+  "duration": 1.6,
+  "speech_start": 0.0,
+  "hash": "2f16e9d7"
+ },
+ "s12": {
+  "file": "assets/voice/s12.mp3",
+  "duration": 1.68,
+  "speech_start": 0.0,
+  "hash": "67e9d68e"
+ },
+ "s13": {
+  "file": "assets/voice/s13.mp3",
+  "duration": 2.8,
+  "speech_start": 0.0,
+  "hash": "6bbb8e9b"
+ },
+ "s14": {
+  "file": "assets/voice/s14.mp3",
+  "duration": 2.88,
+  "speech_start": 0.0,
+  "hash": "0ac8e25d"
+ },
+ "s15": {
+  "file": "assets/voice/s15.mp3",
+  "duration": 2.88,
+  "speech_start": 0.0,
+  "hash": "dcb7810d"
+ },
+ "s16": {
+  "file": "assets/voice/s16.mp3",
+  "duration": 3.52,
+  "speech_start": 0.0,
+  "hash": "80b1b061"
+ },
+ "s17": {
+  "file": "assets/voice/s17.mp3",
+  "duration": 2.0,
+  "speech_start": 0.0,
+  "hash": "93e22c82"
+ },
+ "s18": {
+  "file": "assets/voice/s18.mp3",
+  "duration": 2.08,
+  "speech_start": 0.0,
+  "hash": "ecdd0cc6"
+ },
+ "s19": {
+  "file": "assets/voice/s19.mp3",
+  "duration": 2.48,
+  "speech_start": 0.0,
+  "hash": "598562b5"
+ },
+ "s20": {
+  "file": "assets/voice/s20.mp3",
+  "duration": 1.6,
+  "speech_start": 0.0,
+  "hash": "c7659187"
+ },
+ "s21": {
+  "file": "assets/voice/s21.mp3",
+  "duration": 1.6,
+  "speech_start": 0.0,
+  "hash": "de52940b"
+ },
+ "s22": {
+  "file": "assets/voice/s22.mp3",
+  "duration": 3.28,
+  "speech_start": 0.0,
+  "hash": "d41b1c27"
+ }
+}
